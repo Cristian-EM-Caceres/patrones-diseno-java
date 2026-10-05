@@ -1,3 +1,5 @@
+package Estructurales.Adapter;
+
 public class Adaptador implements EnchufeEuropeo {
     private EnchufeAmericano enchufeForaneo;
 
